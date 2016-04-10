@@ -1,0 +1,22 @@
+10.30.7.141
+Diagnostics:
+Diagnostics2016\administrator    Northwoods.2755
+
+UserName: diagnostics2
+Password: Regression1@3
+
+
+10.30.7.138 
+
+Acsqualitycenter2016\administrator
+Acsacs123
+
+
+Sitescope:
+10.30.7.140
+Sitescope2016\administrator       Northwoods.2755
+
+
+UFT
+10.30.7.142
+Uft2016\administrator                   Northwoods.2755
